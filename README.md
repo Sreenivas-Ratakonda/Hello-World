@@ -1,5 +1,7 @@
 # Hello-World
-learning git
 
+version management
+
+this is test
 
 editing read me......................!
